@@ -1,2 +1,2 @@
-# Comsuming-REST-API-using-SQL
+# Comsuming REST API using SQL
 To consume rest APIs using SQL stored procedure
